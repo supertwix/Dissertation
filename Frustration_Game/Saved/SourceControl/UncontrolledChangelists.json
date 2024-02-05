@@ -109,10 +109,8 @@
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/sprites/player/jump/player-fall.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/Blueprints/BP_SpirteCharacter.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/Blueprints/GM_SideScroller.uasset",
-				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/environment/layers/Floating_Platform_3Wide.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/environment/layers/HighRampRight.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/environment/layers/back_Sprite.uasset",
-				"C:/Unreal Game/Dissertation/Frustration_Game/Content/Blueprints/BP_Background.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/environment/layers/HighRampLeft.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/environment/layers/LowRampLeft.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/sprites/player/idle/player-idle-1_Sprite.uasset",
@@ -126,6 +124,10 @@
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/sprites/player/run/player-run-4_Sprite.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/sprites/player/run/player-run-5_Sprite.uasset",
 				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/sprites/player/run/player-run-6_Sprite.uasset",
+				"C:/Unreal Game/Dissertation/Frustration_Game/Content/Blueprints/MovingPlatform_BP.uasset",
+				"C:/Unreal Game/Dissertation/Frustration_Game/Content/Blueprints/BP_MovingPlatform.uasset",
+				"C:/Unreal Game/Dissertation/Frustration_Game/Content/SunnyLand_Assets/environment/layers/Floating_Platform_3Wide.uasset",
+				"C:/Unreal Game/Dissertation/Frustration_Game/Content/Blueprints/BP_Background.uasset",
 				"C:/Unreal Game/Frustration_Game/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
